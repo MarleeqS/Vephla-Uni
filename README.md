@@ -1,1 +1,1 @@
-The GitHub Live Link ==> https://marleeqs.github.io/Vephla-Uni/
+The GitHub Live Link ==> https://vephla-homepage.vercel.app/
